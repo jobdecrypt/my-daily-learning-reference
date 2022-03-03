@@ -25,6 +25,7 @@
 
 - `$ git add <filename>` to `Stage` a certain file/files or `$ git add .` to add all `Unstaged` files
 - `$ git branch` to check the current branch
+- `$ git clone` to clone the repository i.e. "git@github.com/blahblah/blah.git
 
 ## To create a branch for git
 
